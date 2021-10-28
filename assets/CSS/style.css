@@ -25,28 +25,14 @@ li {
   display: inline-block;
   font-size: 40px;
   color: #eee2dc;
-  margin-right: 30px;
 }
 
 .mainHeading {
   text-align: center;
   font-size: 100px;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  margin-bottom: 40px;
-  color: #ac3b61;
 }
 
 img {
-  width: 800px;
-  height: 800px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 50px;
-  background-color: #bab2b5;
-  margin-bottom: 100px;
-}
-
-#contactSection {
-  text-align: center;
+  margin: 0 auto;
 }
